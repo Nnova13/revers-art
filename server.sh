@@ -1,0 +1,1 @@
+python ./sources/main.py
